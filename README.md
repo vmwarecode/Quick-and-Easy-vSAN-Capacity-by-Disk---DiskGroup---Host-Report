@@ -1,1 +1,0 @@
-# Quick-and-Easy-vSAN-Capacity-by-Disk---DiskGroup---Host-Report
